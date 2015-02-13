@@ -1,0 +1,10 @@
+{
+    "name": "Avoid",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Avoid.xml",
+    "author": "Ayziak",
+    "minimum_firmware_version": 42
+}
